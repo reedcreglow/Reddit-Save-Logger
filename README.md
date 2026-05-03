@@ -4,6 +4,11 @@ A personal, self-hosted tool for logging and organizing your Reddit saves
 and upvotes beyond Reddit's native limits, and with features Reddit 
 doesn't offer.
 
+## ⚠️ Status
+
+Early development. This repo currently contains the foundational 
+API connection and authentication layer. The full application needs API access to be built out from here.
+
 ## What This Is
 
 Reddit allows you to save and upvote posts, but provides almost no tools 
