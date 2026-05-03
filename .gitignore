@@ -1,0 +1,9 @@
+node_modules/
+.env
+data/
+client/dist/
+*.db
+*.db-shm
+*.db-wal
+SPEC.md
+BUILDPLAN.md
