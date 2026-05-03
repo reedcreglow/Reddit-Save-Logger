@@ -87,7 +87,3 @@ This tool:
 - Accesses only the authenticated user's own activity
 - Is non-commercial, closed deployment, single user
 - Does not scrape, index, or access public Reddit content at scale
-
-## License
-
-MIT — though since this is a personal tool, distribution is not the intent.
